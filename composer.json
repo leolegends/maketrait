@@ -1,7 +1,7 @@
 {
     "name": "leolegends/maketrait",
-    "description": ":description",
-    "license": "license",
+    "description": "Package make:trait to Laravel",
+    "license": "MIT",
     "authors": [
         {
             "name": "Leonardo Ribeiro",

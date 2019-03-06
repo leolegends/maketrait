@@ -6,11 +6,11 @@
         {
             "name": "Leonardo Ribeiro",
             "email": "lviniciusribeiro@yahoo.com.br",
-            "homepage": "lrtitecnologia.wordpress.com"
+            "homepage": "https://lrtitecnologia.wordpress.com"
         }
     ],
     "homepage": "https://github.com/leolegends/maketrait",
-    "keywords": ["Laravel", "maketrait"],
+    "keywords": ["Laravel", "maketrait", "leolegends"],
     "require": {
         "illuminate/support": "~5"
     },

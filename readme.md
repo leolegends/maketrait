@@ -12,7 +12,7 @@ This is where your description should go. Take a look at [contributing.md](contr
 Via Composer
 
 ``` bash
-$ composer require leolegends/maketrait "1.0.2"
+$ composer require leolegends/maketrait "2.0"
 ```
 
 If you do not run Laravel 5.5 (or higher), then add the service provider in `config/app.php`:
